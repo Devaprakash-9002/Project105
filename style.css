@@ -1,0 +1,19 @@
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+
+.name_of_objects {
+    color: rgb(rgba(61, 199, 102, 0.527), rgba(120, 161, 120, 0.644), rgba(118, 158, 65, 0.705));
+}
+
+#camera {
+    border: 4px dashed rgb(70, 6, 112);
+    width: 350px;
+    height: 300px;
+}
+
+#result {
+    width: 350px;
+    height: 300px;
+}
